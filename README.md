@@ -1,3 +1,3 @@
 # JavaScript-battleship
 
-Head First JavaScript Programming Ch 2
+Head First JavaScript Programming
