@@ -104,7 +104,7 @@ const model = {
             }
         }
         return false;
-    }
+    },
 };
 
 const controller = {
